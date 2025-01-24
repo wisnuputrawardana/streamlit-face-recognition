@@ -1,3 +1,4 @@
+cmake
 pip>=24.3.1
 opencv-python
 Pillow
