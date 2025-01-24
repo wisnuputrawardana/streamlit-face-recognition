@@ -1,6 +1,6 @@
-pip>=24.3.1
+# pip>=24.3.1
 opencv-python
 Pillow
 face_recognition
-dlib==19.24.1
+# dlib==19.24.1
 streamlit
